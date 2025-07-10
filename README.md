@@ -27,3 +27,10 @@ This project implements a basic Neural Network from scratch using **Python** and
 Neural-Network-Digit-Recognizer
 - neural_net.py # Main Python script for the neural network
 - README.md # Project documentation
+
+## 🖼️ Predictions
+
+(![prediction](https://github.com/user-attachments/assets/f369fbae-5799-4116-8750-ce9d988d5a73)
+)
+
+> Achieved over **88.84% accuracy** on the MNIST test set after 200 iterations.
